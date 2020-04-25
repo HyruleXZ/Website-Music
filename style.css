@@ -19,7 +19,8 @@ header{
 }
 section{
     background: white;
-    color: gray;
+    color: black;
+    max-height: 20%
 }
 footer{
     background: black;
